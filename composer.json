@@ -1,0 +1,16 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "imangazaliev/didom": "^2.0",
+        "ext-curl": "*",
+        "ext-dom": "*",
+        "ext-mysqli": "*",
+        "ext-pdo": "*",
+        "elasticsearch/elasticsearch": "~1.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
